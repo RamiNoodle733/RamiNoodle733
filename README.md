@@ -150,4 +150,3 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 `Email` → ramiabdelrazzaq@gmail.com  
 `Devpost` → https://devpost.com/software/cougar-degree  
 `Akhdar Perfumes` → https://akhdarperfumes.com
-
