@@ -7,11 +7,22 @@ Theme: Custom Rami Theme 733
 
   <!-- Typing header -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&duration=2600&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Welcome+to+my+GitHub+Profile;Hi%2C+I'm+Rami+Abdelrazzaq;Software+Engineer+%7C+AI+Evaluator+%7C+Founder"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&duration=2600&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Welcome+to+my+GitHub;Hi%2C+I'm+Rami+Abdelrazzaq;Software+Engineer+|+AI+Evaluator+|+Founder"
     alt="typing animation"
   />
 
-  <!-- Visitor counter -->
+  <!-- Quick badges -->
+  <a href="https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ramiabdelrazzaq@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ramiabdelrazzaq%40gmail.com-555" />
+  </a>
+  <a href="https://akhdarperfumes.com">
+    <img alt="Akhdar Perfumes" src="https://img.shields.io/badge/Akhdar%20Perfumes-065C1B?logo=shopify&logoColor=white" />
+  </a>
+
+  <br />
   <img src="https://komarev.com/ghpvc/?username=RamiNoodle733&label=VISITOR%20LOG&style=flat&color=00ff88" alt="visitor badge" />
 
 </div>
@@ -20,27 +31,32 @@ Theme: Custom Rami Theme 733
 
 ## Tech Stack and Tools
 
-**Languages and Frameworks**
+<!-- Compact, readable badges grouped by category -->
 
-<p>
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28">
-  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28">
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28">
-  <img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="28">
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="28">
-</p>
+**Core**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
-**Databases and Infra**
+**Web**
 
-<p>
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28">
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28">
-  <img alt="Render" src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white" height="22">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28">
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28">
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Data and Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Dev and Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -57,6 +73,12 @@ Theme: Custom Rami Theme 733
 
 <img alt="Streak" src="https://streak-stats.demolab.com?user=RamiNoodle733&theme=merko&hide_border=false" />
 
+<!-- Activity graph -->
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&theme=github-compact&radius=8&area=true" />
+
+<!-- Trophies -->
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=12" />
+
 </div>
 
 ---
@@ -65,8 +87,8 @@ Theme: Custom Rami Theme 733
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Islamic Glossary Reminders**  • [Live](https://islamic-glossary-reminders.onrender.com) • [Repo](https://github.com/RamiNoodle733/Islamic-Glossary-Reminders) | Full stack app with timed check in windows, knowledge points, streaks, and a community leaderboard. No repeat term per interval. | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white) |
-| **Cougar Degree — Hackathon**  • [Devpost](https://devpost.com/software/cougar-degree) • [Code](https://github.com/mvmonr0e/cougardegree) | UH degree planner that generates an 8 semester roadmap, enforces prerequisites, and balances credit loads near 15 hours. MLH Best Use of DigitalOcean Gradient AI winner. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Web](https://img.shields.io/badge/Web-Project-informational) |
+| **Islamic Glossary Reminders**  • [Live](https://islamic-glossary-reminders.onrender.com) • [Repo](https://github.com/RamiNoodle733/Islamic-Glossary-Reminders) | Full stack app with timed check-ins, knowledge points, streaks, and a community leaderboard. No repeat term inside each time window. | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white) |
+| **Cougar Degree - Hackathon**  • [Devpost](https://devpost.com/software/cougar-degree) • [Code](https://github.com/mvmonr0e/cougardegree) | UH degree planner that generates balanced 8 semester roadmaps with prerequisite checks and progress tracking. MLH winner for Best Use of DigitalOcean Gradient AI. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 | **Animal Stats**  • [Live](https://raminoodle733.github.io/animal-stats/) • [Repo](https://github.com/RamiNoodle733/animal-stats) | Interactive site for exploring animal statistics with quick comparisons and a clean UI. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) |
 
 ---
@@ -76,8 +98,8 @@ Theme: Custom Rami Theme 733
 Computer Science graduate at the University of Houston. I like shipping small projects quickly, then iterating based on feedback. I also run Akhdar Perfumes where I handle product, site, and content.
 
 **Quick flags**
-- BS in Computer Science, Cum Laude, University of Houston
-- Dean’s List Spring 2024, Fall 2024, Spring 2025
+- BS in Computer Science, Cum Laude, University of Houston  
+- Dean’s List Spring 2024, Fall 2024, Spring 2025  
 - AI Evaluation Specialist at Outlier AI
 
 ---
@@ -101,32 +123,17 @@ Computer Science graduate at the University of Houston. I like shipping small pr
   Taught Scratch and Python to two age groups and guided project completion.
 
 **Selected Projects**
-- Cougar Degree — MLH Best Use of DigitalOcean Gradient AI winner  
+- Cougar Degree - MLH Best Use of DigitalOcean Gradient AI winner  
   Two engines: Gemini 2.5 Flash and a DigitalOcean Gradient AI agent behind a REST API with Bearer auth.  
-  Difficulty aware scheduling with CougarGrades distributions and dependency resolution.
+  Difficulty aware scheduling using CougarGrades distributions and dependency resolution.
 - Full Stack Glossary Reminders Web App  
-  JWT auth, REST APIs, MongoDB persistence, streaks, leaderboard, time based check ins.
+  JWT auth, REST APIs, MongoDB persistence, streaks, leaderboard, time based check-ins.
 
 **Skills**
 - Languages and frameworks: Python, JavaScript, Java, C++, C, SQL, HTML, CSS, Flask, Node.js, Express, MongoDB  
 - Tools: Git, GitHub, VS Code, MySQL Workbench, Render  
 - Areas: AI and ML, data analysis, Linux, Windows
-
 </details>
-
-_Source: resume on file._  
-<!-- required internal citation for resume -->
-:contentReference[oaicite:0]{index=0}
-
----
-
-## Currently Learning and Exploring
-
-- TypeScript and Vitest for frontend testing  
-- PyTest for API and backend tests  
-- Data visualization patterns for small dashboards  
-- Light 3D and web graphics for product pages  
-- Shopify Liquid snippets for quick themes
 
 ---
 
