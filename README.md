@@ -5,10 +5,10 @@ Theme: Custom Rami Theme 733
 
 <div align="center">
 
-  <!-- Typing header -->
+  <!-- Static header banner -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&duration=2600&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Welcome+to+my+GitHub;Hi%2C+I'm+Rami+Abdelrazzaq;Software+Engineer+|+AI+Evaluator+|+Founder"
-    alt="typing animation"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0A9469&height=180&section=header&text=Rami%20Abdelrazzaq&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Evaluator%20|%20Founder&descAlign=50&descAlignY=70"
+    alt="Header"
   />
 
   <!-- Quick badges -->
@@ -17,6 +17,9 @@ Theme: Custom Rami Theme 733
   </a>
   <a href="mailto:ramiabdelrazzaq@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-ramiabdelrazzaq%40gmail.com-555" />
+  </a>
+  <a href="https://devpost.com/software/cougar-degree">
+    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" />
   </a>
   <a href="https://akhdarperfumes.com">
     <img alt="Akhdar Perfumes" src="https://img.shields.io/badge/Akhdar%20Perfumes-065C1B?logo=shopify&logoColor=white" />
@@ -31,32 +34,34 @@ Theme: Custom Rami Theme 733
 
 ## Tech Stack and Tools
 
-<!-- Compact, readable badges grouped by category -->
+**Languages & Frameworks**
 
-**Core**
-  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-
-**Web**
-
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-025E8C)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-**Data and Databases**
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-**Dev and Infra**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
 
@@ -110,21 +115,21 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 <summary><b>Open snapshot</b></summary>
 
 **Education**
-- University of Houston — BS in Computer Science, May 2025  
+- University of Houston - BS in Computer Science, May 2025  
 - Cum Laude  
 - Dean’s List Spring 2024, Fall 2024, Spring 2025
 
 **Experience**
-- AI Evaluation Specialist, Outlier AI — Nov 2024 to Present  
-  Trained and refined coding models through code review, debugging tasks, and solution quality checks.
-- Software Developer, Boston Scientific Cardio Vision — Jan 2025 to May 2025  
+- AI Evaluation Specialist, Outlier AI - Nov 2024 to Present  
+  Trained and refined AI coding models through code assessments, debugging tasks, and optimizations.
+- Software Developer, Boston Scientific Cardio Vision - Jan 2025 to May 2025  
   Backend data ops for large ECG sets, vector visualizations, testing for accuracy and reliability.
-- Coding Instructor, Coder Kids — Aug 2024 to Jan 2025  
+- Coding Instructor, Coder Kids - Aug 2024 to Jan 2025  
   Taught Scratch and Python to two age groups and guided project completion.
 
 **Selected Projects**
 - Cougar Degree - MLH Best Use of DigitalOcean Gradient AI winner  
-  Two engines: Gemini 2.5 Flash and a DigitalOcean Gradient AI agent behind a REST API with Bearer auth.  
+  Two engines: Gemini 2.5 Flash and a DigitalOcean Gradient AI agent exposed via REST API with Bearer auth.  
   Difficulty aware scheduling using CougarGrades distributions and dependency resolution.
 - Full Stack Glossary Reminders Web App  
   JWT auth, REST APIs, MongoDB persistence, streaks, leaderboard, time based check-ins.
@@ -132,7 +137,7 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 **Skills**
 - Languages and frameworks: Python, JavaScript, Java, C++, C, SQL, HTML, CSS, Flask, Node.js, Express, MongoDB  
 - Tools: Git, GitHub, VS Code, MySQL Workbench, Render  
-- Areas: AI and ML, data analysis, Linux, Windows
+- Areas: AI and ML, Data Analysis, Linux, Windows
 </details>
 
 ---
@@ -142,4 +147,5 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 `LinkedIn` → https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/  
 `GitHub` → https://github.com/RamiNoodle733  
 `Email` → ramiabdelrazzaq@gmail.com  
+`Devpost` → https://devpost.com/software/cougar-degree  
 `Akhdar Perfumes` → https://akhdarperfumes.com
