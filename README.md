@@ -94,6 +94,7 @@ Theme: Custom Rami Theme 733
 |---|---|---|
 | **Islamic Glossary Reminders**  • [Live](https://islamic-glossary-reminders.onrender.com) • [Repo](https://github.com/RamiNoodle733/Islamic-Glossary-Reminders) | Full stack app with timed check-ins, knowledge points, streaks, and a community leaderboard. No repeat term inside each time window. | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white) |
 | **Cougar Degree - Hackathon**  • [Devpost](https://devpost.com/software/cougar-degree) • [Code](https://github.com/mvmonr0e/cougardegree) | UH degree planner that generates balanced 8 semester roadmaps with prerequisite checks and progress tracking. MLH winner for Best Use of DigitalOcean Gradient AI. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
+| **Boston Scientific - Cardio Vision (capstone)** • [Repo](https://github.com/venkats/sdp25_unknown) | Web app work for ECG data flows and visualization. Focus areas: upload workflows, reliability, and testing. Frontend tests with Vitest and backend tests with PyTest. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC) |
 | **Animal Stats**  • [Live](https://raminoodle733.github.io/animal-stats/) • [Repo](https://github.com/RamiNoodle733/animal-stats) | Interactive site for exploring animal statistics with quick comparisons and a clean UI. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) |
 
 ---
@@ -123,7 +124,7 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 - AI Evaluation Specialist, Outlier AI - Nov 2024 to Present  
   Trained and refined AI coding models through code assessments, debugging tasks, and optimizations.
 - Software Developer, Boston Scientific Cardio Vision - Jan 2025 to May 2025  
-  Backend data ops for large ECG sets, vector visualizations, testing for accuracy and reliability.
+  Backend data ops for large ECG sets, vector visualizations, and testing for accuracy and reliability.
 - Coding Instructor, Coder Kids - Aug 2024 to Jan 2025  
   Taught Scratch and Python to two age groups and guided project completion.
 
