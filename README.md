@@ -151,4 +151,3 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 `Devpost` → https://devpost.com/software/cougar-degree  
 `Akhdar Perfumes` → https://akhdarperfumes.com
 
-
