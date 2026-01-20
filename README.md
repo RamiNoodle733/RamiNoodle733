@@ -7,7 +7,7 @@ Theme: Custom Rami Theme 733
 
   <!-- Static header banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:0b1020,100:0A9469&height=180&section=header&text=Rami%20Abdelrazzaq&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Evaluator%20|%20Founder&descAlign=50&descAlignY=70"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0A9469&height=180&section=header&text=Rami%20Abdelrazzaq&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Evaluator%20|%20Founder&descAlign=50&descAlignY=70"
     alt="Header"
   />
 
@@ -21,27 +21,12 @@ Theme: Custom Rami Theme 733
   <a href="https://devpost.com/software/cougar-degree">
     <img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" />
   </a>
-  <a href="https://animalbattlestats.com">
-    <img alt="AnimalBattleStats.com" src="https://img.shields.io/badge/animalbattlestats.com-0b1020?logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://akhdarperfumes.com">
     <img alt="Akhdar Perfumes" src="https://img.shields.io/badge/Akhdar%20Perfumes-065C1B?logo=shopify&logoColor=white" />
   </a>
 
   <br />
   <img src="https://komarev.com/ghpvc/?username=RamiNoodle733&label=VISITOR%20LOG&style=flat&color=00ff88" alt="visitor badge" />
-
-  <br /><br />
-  <img
-    alt="Typing"
-    src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=900&color=ADD58A&center=true&vCenter=true&width=760&lines=Shipping+clean+UI+and+iterating+fast;Full-stack+apps%2C+testing%2C+automation;Building+Animal+Battle+Stats+and+Akhdar+Perfumes"
-  />
-
-  <br />
-  <img
-    alt="Divider"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:0A9469&height=3&section=header"
-  />
 
 </div>
 
@@ -78,15 +63,6 @@ Theme: Custom Rami Theme 733
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-<br />
-
-<div align="center">
-  <img
-    alt="Skill Icons"
-    src="https://skillicons.dev/icons?i=python,js,java,cpp,c,nodejs,express,flask,mongodb,mysql,git,github,vscode,linux,windows&perline=8"
-  />
-</div>
-
 ---
 
 ## GitHub Stats and Metrics
@@ -94,7 +70,7 @@ Theme: Custom Rami Theme 733
 <div align="center">
 
 <a href="https://github.com/RamiNoodle733">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&include_all_commits=true&theme=merko" />
+  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&theme=merko&include_all_commits=true" />
 </a>
 <a href="https://github.com/RamiNoodle733">
   <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiNoodle733&layout=compact&theme=merko&langs_count=8" />
@@ -102,44 +78,12 @@ Theme: Custom Rami Theme 733
 
 <img alt="Streak" src="https://streak-stats.demolab.com?user=RamiNoodle733&theme=merko&hide_border=false" />
 
-<!-- Activity graph (updated styling + more reliable params) -->
-<img
-  alt="Activity Graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&bg_color=0b1020&color=c9d1d9&line=0A9469&point=ADD58A&area=true&hide_border=true&radius=10"
-/>
+<!-- Activity graph -->
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&theme=github-compact&radius=8&area=true" />
 
 <!-- Trophies -->
 <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=12" />
 
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    alt="Quote"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    alt="Profile Details"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamiNoodle733&theme=github_dark"
-  />
-</div>
-
-<div align="center">
-  <img
-    alt="Stats Card"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamiNoodle733&theme=github_dark"
-  />
-  <img
-    alt="Productive Time"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RamiNoodle733&theme=github_dark&utcOffset=-6"
-  />
 </div>
 
 ---
@@ -152,10 +96,6 @@ Theme: Custom Rami Theme 733
 | **Cougar Degree - Hackathon**  • [Devpost](https://devpost.com/software/cougar-degree) • [Repo](https://github.com/mvmonr0e/cougardegree) | UH degree planner that generates balanced 8 semester roadmaps with prerequisite checks and progress tracking. MLH winner for Best Use of DigitalOcean Gradient AI. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 | **Boston Scientific - Cardio Vision (capstone)** • [Repo](https://github.com/venkats/sdp25_unknown) | Web app work for ECG data flows and visualization. Focus areas: upload workflows, reliability, and testing. Frontend tests with Vitest and backend tests with PyTest. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC) |
 | **Animal Battle Stats**  • [Live](https://raminoodle733.github.io/animal-battle-stats/) • [Repo](https://github.com/RamiNoodle733/animal-battle-stats) | Interactive site for exploring animal statistics with quick comparisons and a clean UI. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) |
-
-<br />
-
-Primary domain: https://animalbattlestats.com
 
 ---
 
@@ -209,6 +149,5 @@ Computer Science graduate at the University of Houston. I like shipping small pr
 `GitHub` → https://github.com/RamiNoodle733  
 `Email` → ramiabdelrazzaq@gmail.com  
 `Devpost` → https://devpost.com/software/cougar-degree  
-`Akhdar Perfumes` → https://akhdarperfumes.com  
-`Animal Battle Stats` → https://animalbattlestats.com  
-
+`Akhdar Perfumes` → https://akhdarperfumes.com
+```
