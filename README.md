@@ -39,9 +39,7 @@ Theme: Custom Rami Theme 733
 **Animal Battle Stats** is an animal powerscaling database: explore stats pages, compare matchups, climb rankings, and run tournaments.
 
 - Live: https://animalbattlestats.com  
-- Repo: https://github.com/RamiNoodle733/animal-battle-stats  
-- Social: https://x.com/AnimalBattStats  
-- Subreddit: https://www.reddit.com/r/AnimalBattleStats/
+- Repo: https://github.com/RamiNoodle733/animal-battle-stats
 
 ---
 
