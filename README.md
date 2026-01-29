@@ -12,39 +12,33 @@
 
 <br>
 
-<!-- Animated Typing -->
-<a href="https://github.com/RamiNoodle733">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=RAMI+ABDELRAZZAQ;Software+Engineer;AI+Evaluator;Full+Stack+Developer;Founder" alt="Typing SVG" />
-</a>
+<!-- Name with subtle glow effect -->
+<h1>
+  <img src="https://img.shields.io/badge/RAMI_ABDELRAZZAQ-00FF41?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Name" height="40"/>
+</h1>
 
-<br><br>
-
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117" alt="Status"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00FF41?style=for-the-badge&labelColor=0D1117" alt="Open to Work"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=RamiNoodle733&label=PROFILE+VIEWS&style=for-the-badge&color=00FF41&labelColor=0D1117" alt="Profile Views"/>
-
-</div>
+**Computer Science Graduate | University of Houston | Cum Laude**
 
 <br>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              ABOUT                                         ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                  │
-│   > Computer Science Graduate | University of Houston | Cum Laude                │
-│   > Ships fast. Iterates faster. Learns from every deployment.                   │
-│   > Building systems that scale and experiences that engage.                     │
-│                                                                                  │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
+<!-- Connect Links -->
+<a href="https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ramiabdelrazzaq@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF41" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://animalbattlestats.com">
+  <img src="https://img.shields.io/badge/Animal_Battle_Stats-0D1117?style=flat-square&logo=github&logoColor=00FF41" alt="ABS"/>
+</a>
+&nbsp;
+<a href="https://devpost.com/software/cougar-degree">
+  <img src="https://img.shields.io/badge/Devpost-0D1117?style=flat-square&logo=devpost&logoColor=00FF41" alt="Devpost"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=RamiNoodle733&label=Views&style=flat-square&color=00FF41&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
@@ -55,8 +49,8 @@
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <span style="color: #00FF41;">CURRENT FOCUS</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30"/> 
+  CURRENT FOCUS
 </h2>
 
 <div align="center">
@@ -251,20 +245,30 @@ Compare stats, run tournaments, climb rankings.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiNoodle733&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages"/>
+<a href="https://github.com/RamiNoodle733">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/RamiNoodle733">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamiNoodle733&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages"/>
+</a>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=RamiNoodle733&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF41&sideLabels=00FF41&dates=6E7681" alt="GitHub Streak"/>
+<a href="https://github.com/RamiNoodle733">
+  <img width="60%" src="https://github-readme-streak-stats-nine-phi.vercel.app?user=RamiNoodle733&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF41&sideLabels=00FF41&dates=6E7681" alt="GitHub Streak"/>
+</a>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&area_color=00FF41&hide_border=true" alt="Activity Graph"/>
+<a href="https://github.com/RamiNoodle733">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&area_color=00FF41&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</a>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7" alt="Trophies"/>
+<a href="https://github.com/RamiNoodle733">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7" alt="Trophies"/>
+</a>
 
 </div>
 
@@ -291,21 +295,17 @@ Compare stats, run tournaments, climb rankings.
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="30">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30"/>
   CREDENTIALS
 </h2>
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🎓  BS Computer Science, Cum Laude — University of Houston                │
-│   📋  Dean's List — Spring 2024, Fall 2024, Spring 2025                     │
-│   🤖  AI Evaluation Specialist — Outlier AI                                 │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+🎓 **BS Computer Science, Cum Laude** — University of Houston
+
+📋 **Dean's List** — Spring 2024, Fall 2024, Spring 2025
+
+🤖 **AI Evaluation Specialist** — Outlier AI
 
 </div>
 
@@ -337,36 +337,7 @@ Compare stats, run tournaments, climb rankings.
 
 <br>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                             CONNECT                                        ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  CONNECT
-</h2>
-
-<div align="center">
-
-<a href="https://animalbattlestats.com">
-  <img src="https://img.shields.io/badge/Animal_Battle_Stats-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Animal Battle Stats"/>
-</a>
-<a href="https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
-</a>
-<a href="mailto:ramiabdelrazzaq@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
-</a>
-<a href="https://devpost.com/software/cougar-degree">
-  <img src="https://img.shields.io/badge/Devpost-0D1117?style=for-the-badge&logo=devpost&logoColor=00FF41" alt="Devpost"/>
-</a>
-<a href="https://github.com/RamiNoodle733">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
-</a>
-
-</div>
-
-<br><br>
+<br>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                              FOOTER                                        ║ -->
