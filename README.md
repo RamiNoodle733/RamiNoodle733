@@ -1,152 +1,379 @@
-<!--
-Rami Abdelrazzaq - GitHub Profile README
-Theme: Custom Rami Theme 733
--->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- Profile Theme: Dark Tech-Forward | Primary: #0D1117 | Accent: #00FF41          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0A9469&height=180&section=header&text=Rami%20Abdelrazzaq&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20Evaluator%20|%20Founder&descAlign=50&descAlignY=70"
-    alt="Header"
-  />
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              HEADER                                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
-  <a href="https://animalbattlestats.com">
-    <img alt="Animal Battle Stats" src="https://img.shields.io/badge/Animal%20Battle%20Stats-00ff88?style=flat&logo=github&logoColor=000" />
-  </a>
-  <a href="https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ramiabdelrazzaq@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ramiabdelrazzaq%40gmail.com-555" />
-  </a>
-  <a href="https://devpost.com/software/cougar-degree">
-    <img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" />
-  </a>
-  <a href="https://akhdarperfumes.com">
-    <img alt="Akhdar Perfumes" src="https://img.shields.io/badge/Akhdar%20Perfumes-065C1B?logo=shopify&logoColor=white" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%" alt=""/>
 
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=RamiNoodle733&label=VISITOR%20LOG&style=flat&color=00ff88" alt="visitor badge" />
+<br>
+
+<!-- Animated Typing -->
+<a href="https://github.com/RamiNoodle733">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=RAMI+ABDELRAZZAQ;Software+Engineer;AI+Evaluator;Full+Stack+Developer;Founder" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00FF41?style=for-the-badge&labelColor=0D1117" alt="Open to Work"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=RamiNoodle733&label=PROFILE+VIEWS&style=for-the-badge&color=00FF41&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
----
+<br>
 
-## What I'm building right now
-
-### Animal Battle Stats (ABS)
-**Animal Battle Stats** is an animal powerscaling database: explore stats pages, compare matchups, climb rankings, and run tournaments.
-
-- Live: https://animalbattlestats.com  
-- Repo: https://github.com/RamiNoodle733/animal-battle-stats
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Animal Battle Stats** • [Live](https://animalbattlestats.com) • [Repo](https://github.com/RamiNoodle733/animal-battle-stats) | Animal powerscaling database with stat pages, comparisons, rankings, and tournament-style matchups. Built to ship fast and iterate based on feedback. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Islamic Glossary Reminders** • [Live](https://islamic-glossary-reminders.onrender.com) • [Repo](https://github.com/RamiNoodle733/Islamic-Glossary-Reminders) | Full stack app with timed check-ins, knowledge points, streaks, and a leaderboard. No repeat term inside each time window. | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white) |
-| **Cougar Degree (Hackathon)** • [Devpost](https://devpost.com/software/cougar-degree) • [Repo](https://github.com/mvmonr0e/cougardegree) | UH degree planner that generates balanced 8-semester roadmaps with prerequisite checks and progress tracking. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
-| **Boston Scientific - Cardio Vision (capstone)** • [Repo](https://github.com/venkats/sdp25_unknown) | Web app work for ECG flows and visualization. Focus areas: upload workflows, reliability, and testing. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) |
-
----
-
-## Tech Stack and Tools
-
-<details>
-<summary><b>Open stack</b></summary>
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-025E8C)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-
-</details>
-
----
-
-## GitHub Stats
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              ABOUT                                         ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-  <a href="https://github.com/RamiNoodle733">
-    <img
-      alt="GitHub Stats"
-      height="160"
-      src="https://github-readme-stats.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&theme=merko&include_all_commits=true&cache_seconds=21600"
-    />
-  </a>
-
-  <a href="https://github.com/RamiNoodle733">
-    <img
-      alt="Top Langs"
-      height="160"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiNoodle733&layout=compact&theme=merko&langs_count=8&cache_seconds=21600"
-    />
-  </a>
-
-  <!-- If this ever breaks, add &v=2 (then &v=3) to force a refresh -->
-  <img
-    alt="Streak"
-    src="https://streak-stats.demolab.com?user=RamiNoodle733&theme=merko&hide_border=true"
-  />
-
-  <!-- Activity graph -->
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&theme=github-compact&radius=8&area=true"
-  />
-
-  <!-- Trophies (flaky sometimes; if it breaks often, remove it or keep it in a <details>) -->
-  <img
-    alt="Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7"
-  />
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│   > Computer Science Graduate | University of Houston | Cum Laude                │
+│   > Ships fast. Iterates faster. Learns from every deployment.                   │
+│   > Building systems that scale and experiences that engage.                     │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<br>
 
-## Profile
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          CURRENT FOCUS                                     ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
-Computer Science graduate at the University of Houston. I like shipping small projects quickly, then iterating based on feedback. I also run Akhdar Perfumes where I handle product, site, and content.
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <span style="color: #00FF41;">CURRENT FOCUS</span>
+</h2>
 
-**Quick flags**
-- BS in Computer Science, Cum Laude, University of Houston
-- Dean’s List Spring 2024, Fall 2024, Spring 2025
-- AI Evaluation Specialist at Outlier AI
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
----
+<img src="./assets/animal-battle-stats-logo.png" width="100" alt="Animal Battle Stats Logo"/>
 
-## Let’s Connect
+### **Animal Battle Stats**
 
-`Animal Battle Stats` → https://animalbattlestats.com  
-`LinkedIn` → https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/  
-`GitHub` → https://github.com/RamiNoodle733  
-`Email` → ramiabdelrazzaq@gmail.com  
-`Devpost` → https://devpost.com/software/cougar-degree  
-`Akhdar Perfumes` → https://akhdarperfumes.com  
+<img src="https://img.shields.io/badge/ACTIVE_DEVELOPMENT-00FF41?style=flat-square&labelColor=0D1117" alt="Active"/>
 
+The ultimate animal powerscaling database.
+Compare stats, run tournaments, climb rankings.
+
+**225+ animals** | **ELO rankings** | **Live battles**
+
+<a href="https://animalbattlestats.com">
+  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-00FF41?style=for-the-badge&labelColor=0D1117" alt="Live"/>
+</a>
+<a href="https://github.com/RamiNoodle733/animal-battle-stats">
+  <img src="https://img.shields.io/badge/📂_REPOSITORY-161B22?style=for-the-badge&labelColor=0D1117" alt="Repo"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+<img src="./assets/animal-battle-stats-preview.png" width="350" alt="Animal Battle Stats Preview"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            PROJECTS                                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  PROJECTS
+</h2>
+
+<div align="center">
+<table>
+<tr>
+
+<!-- Islamic Glossary Reminders -->
+<td width="33%" align="center" valign="top">
+<br>
+<img src="./assets/islamic-glossary-logo.png" width="80" alt="Islamic Glossary Logo"/>
+<br><br>
+<h3>Islamic Glossary Reminders</h3>
+<p>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00FF41" alt="Node"/>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00FF41" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00FF41" alt="Express"/>
+</p>
+<p><sub>Gamified learning with timed check-ins, streaks, knowledge points, and leaderboards.</sub></p>
+<br>
+<a href="https://islamic-glossary-reminders.onrender.com">
+  <img src="https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0D1117" alt="Live"/>
+</a>
+<a href="https://github.com/RamiNoodle733/Islamic-Glossary-Reminders">
+  <img src="https://img.shields.io/badge/REPO-161B22?style=flat-square&labelColor=0D1117" alt="Repo"/>
+</a>
+<br><br>
+</td>
+
+<!-- Cougar Degree -->
+<td width="33%" align="center" valign="top">
+<br>
+<img src="./assets/cougar-degree-logo.png" width="80" alt="Cougar Degree Logo"/>
+<br><br>
+<h3>Cougar Degree</h3>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41" alt="JS"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00FF41" alt="Node"/>
+</p>
+<p><sub>UH degree planner generating balanced 8-semester roadmaps with prerequisite validation.</sub></p>
+<br>
+<a href="https://devpost.com/software/cougar-degree">
+  <img src="https://img.shields.io/badge/DEVPOST-00FF41?style=flat-square&labelColor=0D1117" alt="Devpost"/>
+</a>
+<a href="https://github.com/mvmonr0e/cougardegree">
+  <img src="https://img.shields.io/badge/REPO-161B22?style=flat-square&labelColor=0D1117" alt="Repo"/>
+</a>
+<br><br>
+</td>
+
+<!-- Cardio Vision -->
+<td width="33%" align="center" valign="top">
+<br>
+<img src="./assets/cardio-vision-logo.png" width="80" alt="Cardio Vision Logo"/>
+<br><br>
+<h3>Cardio Vision</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00FF41" alt="Flask"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41" alt="JS"/>
+</p>
+<p><sub>Boston Scientific capstone — ECG visualization and upload workflow system.</sub></p>
+<br>
+<a href="https://github.com/venkats/sdp25_unknown">
+  <img src="https://img.shields.io/badge/REPO-161B22?style=flat-square&labelColor=0D1117" alt="Repo"/>
+</a>
+<br><br>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                           TECH STACK                                       ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  TECH STACK
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+
+</td>
+<td align="center" width="50%">
+
+**FRAMEWORKS**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**DATABASES**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+
+</td>
+<td align="center">
+
+**TOOLS & PLATFORMS**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            STATISTICS                                      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  STATISTICS
+</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&ring_color=00FF41" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiNoodle733&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RamiNoodle733&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF41&sideLabels=00FF41&dates=6E7681" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&area_color=00FF41&hide_border=true" alt="Activity Graph"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7" alt="Trophies"/>
+
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         CONTRIBUTION SNAKE                                 ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamiNoodle733/RamiNoodle733/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamiNoodle733/RamiNoodle733/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RamiNoodle733/RamiNoodle733/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                           CREDENTIALS                                      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="30">
+  CREDENTIALS
+</h2>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   🎓  BS Computer Science, Cum Laude — University of Houston                │
+│   📋  Dean's List — Spring 2024, Fall 2024, Spring 2025                     │
+│   🤖  AI Evaluation Specialist — Outlier AI                                 │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          AKHDAR PERFUMES                                   ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="./assets/akhdar-perfumes-logo.png" width="60" alt="Akhdar Perfumes"/>
+
+**Also building:** [Akhdar Perfumes](https://akhdarperfumes.com) — Founder handling product, site & content
+
+<a href="https://akhdarperfumes.com">
+  <img src="https://img.shields.io/badge/🛍️_SHOP-00FF41?style=flat-square&labelColor=0D1117" alt="Shop"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                             CONNECT                                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  CONNECT
+</h2>
+
+<div align="center">
+
+<a href="https://animalbattlestats.com">
+  <img src="https://img.shields.io/badge/Animal_Battle_Stats-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Animal Battle Stats"/>
+</a>
+<a href="https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+</a>
+<a href="mailto:ramiabdelrazzaq@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
+</a>
+<a href="https://devpost.com/software/cougar-degree">
+  <img src="https://img.shields.io/badge/Devpost-0D1117?style=for-the-badge&logo=devpost&logoColor=00FF41" alt="Devpost"/>
+</a>
+<a href="https://github.com/RamiNoodle733">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
+
+</div>
+
+<br><br>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              FOOTER                                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt=""/>
+
+</div>
