@@ -8,11 +8,7 @@
 <!-- ║                              HEADER                                        ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- Custom city skyline header - replace with your image -->
-<img src="./assets/header-skyline.png" width="100%" alt="City Skyline"/>
-
-<!-- Name -->
-# **RAMI ABDELRAZZAQ**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=RAMI%20ABDELRAZZAQ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=&descAlignY=62&descAlign=50" width="100%" alt=""/>
 
 **Computer Science Graduate | University of Houston | Cum Laude**
 
