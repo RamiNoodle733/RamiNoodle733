@@ -8,14 +8,11 @@
 <!-- ║                              HEADER                                        ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=&fontSize=0" width="100%" alt=""/>
+<!-- Custom city skyline header - replace with your image -->
+<img src="./assets/header-skyline.png" width="100%" alt="City Skyline"/>
 
-<br>
-
-<!-- Name with subtle glow effect -->
-<h1>
-  <img src="https://img.shields.io/badge/RAMI_ABDELRAZZAQ-00FF41?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Name" height="40"/>
-</h1>
+<!-- Name -->
+# **RAMI ABDELRAZZAQ**
 
 **Computer Science Graduate | University of Houston | Cum Laude**
 
@@ -267,7 +264,7 @@ Compare stats, run tournaments, climb rankings.
 <br><br>
 
 <a href="https://github.com/RamiNoodle733">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamiNoodle733&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=RamiNoodle733&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&column=7" alt="Trophies"/>
 </a>
 
 </div>
