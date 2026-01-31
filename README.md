@@ -341,3 +341,4 @@ Compare stats, run tournaments, climb rankings.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt=""/>
 
 </div>
+
