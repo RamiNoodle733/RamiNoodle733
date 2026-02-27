@@ -28,7 +28,7 @@ Full-Stack Development · AI Tools & Workflows · Data Systems & Dashboards
 
 ---
 
-### Currently Building
+### Featured
 
 <table>
 <tr>
@@ -38,9 +38,9 @@ Full-Stack Development · AI Tools & Workflows · Data Systems & Dashboards
 
 **[Animal Battle Stats](https://github.com/RamiNoodle733/animal-battle-stats)** · [animalbattlestats.com](https://animalbattlestats.com)
 
-Data platform for comparing 225+ animals. MongoDB Atlas, Vercel serverless APIs, JWT auth, ELO rankings, tournaments, community features, and Chart.js visualizations.
+Data platform for comparing 225+ animals across combat stats, ELO rankings, tournaments, and community features. JWT auth, Chart.js visualizations, and serverless APIs.
 
-`JavaScript` `Node.js` `MongoDB` `Express` `Vercel`
+`JavaScript` `Node.js` `Express` `MongoDB Atlas` `Vercel`
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -59,109 +59,100 @@ Data platform for comparing 225+ animals. MongoDB Atlas, Vercel serverless APIs,
 <tr>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/ibm/238636" width="36" height="36" alt="IBM"/>
+<img src="./assets/cougar-degree-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/mvmonr0e/cougardegree">Cougar Degree</a></b> · <a href="https://devpost.com/software/cougar-degree">Devpost</a>
+<br><img src="https://img.shields.io/badge/MLH_Winner-21262D?style=flat-square&logo=majorleaguehacking&logoColor=238636" height="18"/>
+<br><sub>AI degree planner generating balanced 8-semester roadmaps with prerequisite enforcement and difficulty-aware scheduling. Dual-LLM pipeline: Gemini 2.5 Flash for parsing, Llama 3 via DigitalOcean Gradient for generation.</sub>
+<br><sub><code>Node.js</code> <code>Express</code> <code>Gemini 2.5 Flash</code> <code>Llama 3</code></sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/ibm-ai-demo-studio">IBM AI Demo Studio</a></b> · <a href="https://ibm-ai-demo-studio.vercel.app/">Live</a> · <a href="https://youtu.be/0TXq9Tz8eno">Video</a>
-<br><sub>LLM workflow demos — Document Q&A with citations, text classification, CSV summarization. Next.js, React, IBM Carbon Design System.</sub>
-<br><br>
 </td>
 <td width="50%" valign="top">
 <br>
-<img src="./assets/islamic-glossary-logo.png" width="36" height="36" alt="Islamic Glossary"/>
+<img src="./assets/cardio-vision-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/venkats/sdp25_unknown">Cardio Vision</a></b> · <a href="https://youtu.be/EwiMXSH537k">Demo</a>
+<br><img src="https://img.shields.io/badge/Boston_Scientific-21262D?style=flat-square&logoColor=238636" height="18"/>
+<br><sub>ECG analysis web app automating cardiac axis calculations via parallelogram and cosine law methods. Triaxial vector visualizations for clinical interpretation.</sub>
+<br><sub><code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>MySQL</code> <code>Pytest</code></sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/Islamic-Glossary-Reminders">Islamic Glossary Reminders</a></b> · <a href="https://islamic-glossary-reminders.onrender.com">Live</a>
-<br><sub>Gamified Islamic glossary learning — timed check-ins, streaks, knowledge points, achievements, and a community leaderboard. Node.js, Express, MongoDB.</sub>
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="./assets/akhdar-perfumes-logo.png" width="36" height="36" alt="Akhdar Perfumes"/>
-<br>
-<b><a href="https://github.com/RamiNoodle733/Akhdar-Perfumes">Akhdar Perfumes</a></b> · <a href="https://akhdarperfumes.com">akhdarperfumes.com</a>
-<br><sub>E-commerce platform for Arabian attars — product catalog, cart, Stripe checkout, admin panel, 3D product viewer, and augmented reality integration.</sub>
-<br><br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/googlecloud/238636" width="36" height="36" alt="Perfume-Pal"/>
-<br>
-<b><a href="https://github.com/RamiNoodle733/Perfume-Pal">Perfume-Pal</a></b>
-<br><sub>AI-powered perfume designer using multi-agent architecture — scent planner and formula architect agents translate preferences into custom fragrance formulas. Google Cloud Run.</sub>
-<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/probot/238636" width="36" height="36" alt="Job-Autopilot"/>
+<img src="https://cdn.simpleicons.org/ibm/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/ibm-ai-demo-studio">IBM AI Demo Studio</a></b> · <a href="https://ibm-ai-demo-studio.vercel.app/">Live</a> · <a href="https://youtu.be/0TXq9Tz8eno">Video</a>
+<br><sub>LLM workflow demos — document Q&A with citations, text classification, and CSV summarization. IBM Carbon Design System UI, Prisma ORM, and GPT-4o integration.</sub>
+<br><sub><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Prisma</code> <code>SQLite</code> <code>GPT-4o</code> · Deploy: Vercel</sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/job-autopilot">Job-Autopilot</a></b>
-<br><sub>Automated job discovery across LinkedIn, Indeed, and company sites. Tailors resumes per position, auto-fills ATS forms, deduplicates postings, and sends Telegram alerts.</sub>
-<br><br>
 </td>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/powerbi/238636" width="36" height="36" alt="Akhdar BI"/>
+<img src="https://cdn.simpleicons.org/powerbi/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/akhdar-bi-command-center">Akhdar BI Command Center</a></b>
+<br><sub>Power BI executive dashboard tracking net sales, AOV, discounts, and customer segments. Star-schema ETL pipeline with DAX measures for pricing and margin analysis.</sub>
+<br><sub><code>Python</code> <code>pandas</code> <code>SQLAlchemy</code> <code>PostgreSQL 15</code> <code>Docker</code> <code>Power BI</code></sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/akhdar-bi-command-center">Akhdar BI Command Center</a></b>
-<br><sub>Power BI executive dashboard tracking net sales, orders, AOV, discounts, and customer segments. Star-schema data model with DAX measures for pricing and margin decisions.</sub>
-<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/reddit/238636" width="36" height="36" alt="ABS-PostBot"/>
+<img src="./assets/akhdar-perfumes-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Akhdar-Perfumes">Akhdar Perfumes</a></b> · <a href="https://akhdarperfumes.com">akhdarperfumes.com</a>
+<br><sub>E-commerce storefront for Arabian attars — product catalog, cart, checkout, and admin panel. Custom Horizon theme with view transitions and JS module imports.</sub>
+<br><sub><code>Shopify Liquid</code> <code>CSS</code> <code>JavaScript</code> · Hosted: Shopify</sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/ABS-PostBot">ABS-PostBot</a></b>
-<br><sub>Social media automation bot for Animal Battle Stats — posts animal spotlights, matchups, and power rankings to Reddit and Discord on a schedule.</sub>
-<br><br>
 </td>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/googlecalendar/238636" width="36" height="36" alt="Node24"/>
+<img src="https://cdn.simpleicons.org/reddit/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/ABS-PostBot">ABS-PostBot</a></b>
+<br><sub>Social media automation for Animal Battle Stats — generates and posts spotlights, matchups, power rankings, and fun facts to Reddit (Snoowrap), Discord (webhooks), and X (OAuth 1.0a).</sub>
+<br><sub><code>Node.js</code> <code>Snoowrap</code> <code>Puppeteer</code> <code>node-canvas</code> · CI: GitHub Actions</sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/Node24">Node24</a></b>
-<br><sub>24-hour planner where "nodes" sum to 24 hours. Drag-resize events, repeating nodes, color themes, reminders, and an AI assistant bar.</sub>
-<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/yelp/238636" width="36" height="36" alt="Halal Hot Chicken"/>
+<img src="./assets/islamic-glossary-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Islamic-Glossary-Reminders">Islamic Glossary Reminders</a></b> · <a href="https://islamic-glossary-reminders.onrender.com">Live</a>
+<br><sub>Gamified Islamic glossary learning — timed check-ins (morning/afternoon/night), streaks, knowledge points with multipliers, achievements, and a community leaderboard.</sub>
+<br><sub><code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>JWT</code> <code>bcrypt</code> · Deploy: Render</sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/Halal-Hot-Chicken-Ranker">Halal-Hot-Chicken-Ranker</a></b>
-<br><sub>Community ranking app for halal hot chicken restaurants. Voting, live rankings, responsive mobile-first design.</sub>
-<br><br>
 </td>
 <td width="50%" valign="top">
 <br>
-<img src="https://cdn.simpleicons.org/python/238636" width="36" height="36" alt="Stock Prediction"/>
+<img src="https://cdn.simpleicons.org/expo/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Node24">Node24</a></b>
+<br><sub>24-hour planner where "nodes" must sum to exactly 24 hours. Drag-resize via gesture handler and reanimated, haptic feedback, repeating nodes, color themes, and an AI assistant bar.</sub>
+<br><sub><code>React Native</code> <code>Expo SDK 54</code> <code>TypeScript</code> <code>Zustand</code> <code>AsyncStorage</code></sub>
 <br>
-<b><a href="https://github.com/RamiNoodle733/stock-prediction-model">Stock Prediction Model</a></b>
-<br><sub>ML pipeline for stock price prediction — data collection from Yahoo Finance, preprocessing, linear regression and LSTM training, evaluation, and report generation.</sub>
-<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <br>
-<img src="./assets/cougar-degree-logo.png" width="36" height="36" alt="Cougar Degree"/>
+<img src="https://cdn.simpleicons.org/probot/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/job-autopilot">Job-Autopilot</a></b>
+<br><sub>Automated job discovery across LinkedIn, Indeed, and company career pages. Tailors resumes per position via LaTeX, auto-fills ATS forms with Puppeteer, deduplicates postings, and sends Telegram alerts.</sub>
+<br><sub><code>Node.js</code> <code>Puppeteer</code> <code>Cheerio</code> <code>SQLite</code> <code>Commander</code> <code>LaTeX</code></sub>
 <br>
-<b><a href="https://github.com/mvmonr0e/cougardegree">Cougar Degree</a></b> · <a href="https://devpost.com/software/cougar-degree">Devpost</a>
-<br><sub>Hackathon winner — MLH Best Use of DigitalOcean Gradient AI. AI degree planner generating balanced 8-semester roadmaps with prerequisite enforcement and difficulty-aware scheduling. Node.js, Express, Gemini.</sub>
-<br><br>
 </td>
 <td width="50%" valign="top">
 <br>
-<img src="./assets/cardio-vision-logo.png" width="36" height="36" alt="Cardio Vision"/>
+<img src="https://cdn.simpleicons.org/yelp/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Halal-Hot-Chicken-Ranker">Halal-Hot-Chicken-Ranker</a></b> · <a href="https://halal-hot-chicken-ranker.vercel.app">Live</a>
+<br><sub>Community ranking app for halal hot chicken restaurants. Upvote/downvote voting, comments, restaurant submissions via Nodemailer, search and sort. Helmet + compression middleware.</sub>
+<br><sub><code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Vanilla JS</code> · Deploy: Vercel</sub>
 <br>
-<b><a href="https://github.com/venkats/sdp25_unknown">Cardio Vision</a></b> · <a href="https://youtu.be/EwiMXSH537k">Demo</a>
-<br><sub>Boston Scientific capstone — ECG analysis web app automating cardiac axis calculations using parallelogram and cosine law. Triaxial vector visualizations. Python, Flask, MySQL, Pytest.</sub>
-<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/googlecloud/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Perfume-Pal">Perfume-Pal</a></b>
+<br><img src="https://img.shields.io/badge/Google_Cloud_Hackathon-21262D?style=flat-square&logo=googlecloud&logoColor=238636" height="18"/>
+<br><sub>AI perfume designer using Google ADK multi-agent architecture — scent planner and formula architect agents translate preferences into custom fragrance formulas.</sub>
+<br><sub><code>Python</code> <code>FastAPI</code> <code>Google ADK</code> <code>Gemini 1.5 Flash</code> · Deploy: Cloud Run (Docker)</sub>
+<br>
+</td>
+<td width="50%" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/python/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/stock-prediction-model">Stock Prediction Model</a></b>
+<br><sub>ML pipeline predicting AAPL/MSFT/AMD stock prices using 52 engineered features and 20-day sliding windows. Compares linear regression, LSTM, and ARIMA models. ACM-formatted LaTeX report.</sub>
+<br><sub><code>Python</code> <code>PyTorch</code> <code>scikit-learn</code> <code>pandas</code> <code>yfinance</code> <code>statsmodels</code></sub>
+<br>
 </td>
 </tr>
 </table>
@@ -172,7 +163,9 @@ Data platform for comparing 225+ animals. MongoDB Atlas, Vercel serverless APIs,
 
 **pandas** · [v3.0.2 release](https://github.com/pandas-dev/pandas/releases/tag/v3.0.2) — Fixed inconsistent `str` array construction. `pd.array` and `pd.Series` now both preserve NA values consistently. Listed as contributor in release notes.
 
-**OpenClaw** · [PR #18131](https://github.com/openclaw/openclaw/pull/18131) · [Commit](https://github.com/RamiNoodle733/openclaw/commit/c2b2d53) — Fixed gateway self-update crash loop (restart only on success, early exit on failed builds, auto-runs `openclaw doctor --fix`). Separately improved context-overflow recovery UX by suggesting `/reset`.
+**OpenClaw** · [PR #18131](https://github.com/openclaw/openclaw/pull/18131) — Fixed gateway self-update crash loop: restart only on successful updates, early exit on failed install/build steps, and auto-runs `openclaw doctor --fix` during updates to sanitize config. Credited in the [v2026.2.17 changelog](https://github.com/openclaw/openclaw/releases/tag/v2026.2.17).
+
+**OpenClaw** · [PR #12973](https://github.com/openclaw/openclaw/pull/12973) — Improved context-overflow recovery UX by suggesting `/reset` when the model hits token limits.
 
 <sub>Also explored: [sqlparse](https://github.com/RamiNoodle733/sqlparse) · [datasette](https://github.com/RamiNoodle733/datasette) · [sqlite-utils](https://github.com/RamiNoodle733/sqlite-utils) · [sqlfluff](https://github.com/RamiNoodle733/sqlfluff) · [altair](https://github.com/RamiNoodle733/altair)</sub>
 
@@ -193,15 +186,19 @@ Data platform for comparing 225+ animals. MongoDB Atlas, Vercel serverless APIs,
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=238636)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=238636)
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=238636)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=238636)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=238636)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=238636)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=238636)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=238636)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=238636)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=238636)
 ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=238636)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=238636)
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=238636)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=238636)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=238636)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=238636)
 ![Render](https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=238636)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=238636)
