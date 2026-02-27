@@ -18,7 +18,11 @@
 
 <br>
 
-I build full-stack applications, AI tools, and data systems. Most of my work ships to production.
+<div align="center">
+
+Full-Stack Development · AI Tools & Workflows · Data Systems & Dashboards
+
+</div>
 
 <br>
 
@@ -29,6 +33,8 @@ I build full-stack applications, AI tools, and data systems. Most of my work shi
 <table>
 <tr>
 <td width="55%" valign="top">
+
+<img src="./assets/animal-battle-stats-logo.png" width="40" alt="ABS"/>
 
 **[Animal Battle Stats](https://github.com/RamiNoodle733/animal-battle-stats)** · [animalbattlestats.com](https://animalbattlestats.com)
 
@@ -52,107 +58,110 @@ Data platform for comparing 225+ animals. MongoDB Atlas, Vercel serverless APIs,
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**[IBM AI Demo Studio](https://github.com/RamiNoodle733/ibm-ai-demo-studio)** · [Live](https://ibm-ai-demo-studio.vercel.app/) · [Video](https://youtu.be/0TXq9Tz8eno)
-<br><sub>LLM workflow demos — Document Q&A with citations, text classification, CSV summarization. Built with Next.js, React, and IBM Carbon Design System.</sub>
-
+<br>
+<img src="https://cdn.simpleicons.org/ibm/238636" width="36" height="36" alt="IBM"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/ibm-ai-demo-studio">IBM AI Demo Studio</a></b> · <a href="https://ibm-ai-demo-studio.vercel.app/">Live</a> · <a href="https://youtu.be/0TXq9Tz8eno">Video</a>
+<br><sub>LLM workflow demos — Document Q&A with citations, text classification, CSV summarization. Next.js, React, IBM Carbon Design System.</sub>
+<br><br>
 </td>
 <td width="50%" valign="top">
-
-**[Islamic Glossary Reminders](https://github.com/RamiNoodle733/Islamic-Glossary-Reminders)** · [Live](https://islamic-glossary-reminders.onrender.com)
+<br>
+<img src="./assets/islamic-glossary-logo.png" width="36" height="36" alt="Islamic Glossary"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/Islamic-Glossary-Reminders">Islamic Glossary Reminders</a></b> · <a href="https://islamic-glossary-reminders.onrender.com">Live</a>
 <br><sub>Gamified Islamic glossary learning — timed check-ins, streaks, knowledge points, achievements, and a community leaderboard. Node.js, Express, MongoDB.</sub>
-
+<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[Akhdar Perfumes](https://github.com/RamiNoodle733/Akhdar-Perfumes)** · [akhdarperfumes.com](https://akhdarperfumes.com)
+<br>
+<img src="./assets/akhdar-perfumes-logo.png" width="36" height="36" alt="Akhdar Perfumes"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/Akhdar-Perfumes">Akhdar Perfumes</a></b> · <a href="https://akhdarperfumes.com">akhdarperfumes.com</a>
 <br><sub>E-commerce platform for Arabian attars — product catalog, cart, Stripe checkout, admin panel, 3D product viewer, and augmented reality integration.</sub>
-
+<br><br>
 </td>
 <td width="50%" valign="top">
-
-**[OpenClaw](https://github.com/RamiNoodle733/openclaw)**
-<br><sub>Local-first AI assistant integrating WhatsApp, Telegram, and Slack. Plugin system for skills and tools, multi-model support, privacy-focused architecture.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Perfume-Pal](https://github.com/RamiNoodle733/Perfume-Pal)**
+<br>
+<img src="https://cdn.simpleicons.org/googlecloud/238636" width="36" height="36" alt="Perfume-Pal"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/Perfume-Pal">Perfume-Pal</a></b>
 <br><sub>AI-powered perfume designer using multi-agent architecture — scent planner and formula architect agents translate preferences into custom fragrance formulas. Google Cloud Run.</sub>
-
+<br><br>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-
-**[Job-Autopilot](https://github.com/RamiNoodle733/job-autopilot)**
+<br>
+<img src="https://cdn.simpleicons.org/probot/238636" width="36" height="36" alt="Job-Autopilot"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/job-autopilot">Job-Autopilot</a></b>
 <br><sub>Automated job discovery across LinkedIn, Indeed, and company sites. Tailors resumes per position, auto-fills ATS forms, deduplicates postings, and sends Telegram alerts.</sub>
-
+<br><br>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-
-**[Akhdar BI Command Center](https://github.com/RamiNoodle733/akhdar-bi-command-center)**
+<br>
+<img src="https://cdn.simpleicons.org/powerbi/238636" width="36" height="36" alt="Akhdar BI"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/akhdar-bi-command-center">Akhdar BI Command Center</a></b>
 <br><sub>Power BI executive dashboard tracking net sales, orders, AOV, discounts, and customer segments. Star-schema data model with DAX measures for pricing and margin decisions.</sub>
-
+<br><br>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-
-**[ABS-PostBot](https://github.com/RamiNoodle733/ABS-PostBot)**
+<br>
+<img src="https://cdn.simpleicons.org/reddit/238636" width="36" height="36" alt="ABS-PostBot"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/ABS-PostBot">ABS-PostBot</a></b>
 <br><sub>Social media automation bot for Animal Battle Stats — posts animal spotlights, matchups, and power rankings to Reddit and Discord on a schedule.</sub>
-
+<br><br>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-
-**[Node24](https://github.com/RamiNoodle733/Node24)**
+<br>
+<img src="https://cdn.simpleicons.org/googlecalendar/238636" width="36" height="36" alt="Node24"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/Node24">Node24</a></b>
 <br><sub>24-hour planner where "nodes" sum to 24 hours. Drag-resize events, repeating nodes, color themes, reminders, and an AI assistant bar.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Music-Remover](https://github.com/RamiNoodle733/Music-Remover)**
-<br><sub>Video player that softens or removes background music using Web Audio API and ffmpeg. Speech-focus presets, dark theme, export support.</sub>
-
+<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[Halal-Hot-Chicken-Ranker](https://github.com/RamiNoodle733/Halal-Hot-Chicken-Ranker)**
+<br>
+<img src="https://cdn.simpleicons.org/yelp/238636" width="36" height="36" alt="Halal Hot Chicken"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/Halal-Hot-Chicken-Ranker">Halal-Hot-Chicken-Ranker</a></b>
 <br><sub>Community ranking app for halal hot chicken restaurants. Voting, live rankings, responsive mobile-first design.</sub>
-
+<br><br>
 </td>
 <td width="50%" valign="top">
-
-**[Stock Prediction Model](https://github.com/RamiNoodle733/stock-prediction-model)**
+<br>
+<img src="https://cdn.simpleicons.org/python/238636" width="36" height="36" alt="Stock Prediction"/>
+<br>
+<b><a href="https://github.com/RamiNoodle733/stock-prediction-model">Stock Prediction Model</a></b>
 <br><sub>ML pipeline for stock price prediction — data collection from Yahoo Finance, preprocessing, linear regression and LSTM training, evaluation, and report generation.</sub>
-
+<br><br>
 </td>
 </tr>
-</table>
-
----
-
-### Collaborative Projects
-
-<table>
 <tr>
 <td width="50%" valign="top">
-
-**[Cougar Degree](https://github.com/mvmonr0e/cougardegree)** · [Devpost](https://devpost.com/software/cougar-degree)
-<br><sub>Hackathon winner — MLH Best Use of DigitalOcean Gradient AI. AI degree planner generating balanced 8-semester roadmaps with prerequisite enforcement and difficulty-aware scheduling using CougarGrades data. Node.js, Express, Gemini, DigitalOcean Gradient AI.</sub>
-
+<br>
+<img src="./assets/cougar-degree-logo.png" width="36" height="36" alt="Cougar Degree"/>
+<br>
+<b><a href="https://github.com/mvmonr0e/cougardegree">Cougar Degree</a></b> · <a href="https://devpost.com/software/cougar-degree">Devpost</a>
+<br><sub>Hackathon winner — MLH Best Use of DigitalOcean Gradient AI. AI degree planner generating balanced 8-semester roadmaps with prerequisite enforcement and difficulty-aware scheduling. Node.js, Express, Gemini.</sub>
+<br><br>
 </td>
 <td width="50%" valign="top">
-
-**[Cardio Vision](https://github.com/venkats/sdp25_unknown)** · [Demo](https://youtu.be/EwiMXSH537k)
-<br><sub>Boston Scientific capstone — ECG analysis web app automating cardiac axis calculations using parallelogram and cosine law. Triaxial vector visualizations, scalable population studies. Python, Flask, MySQL, Pytest.</sub>
-
+<br>
+<img src="./assets/cardio-vision-logo.png" width="36" height="36" alt="Cardio Vision"/>
+<br>
+<b><a href="https://github.com/venkats/sdp25_unknown">Cardio Vision</a></b> · <a href="https://youtu.be/EwiMXSH537k">Demo</a>
+<br><sub>Boston Scientific capstone — ECG analysis web app automating cardiac axis calculations using parallelogram and cosine law. Triaxial vector visualizations. Python, Flask, MySQL, Pytest.</sub>
+<br><br>
 </td>
 </tr>
 </table>
