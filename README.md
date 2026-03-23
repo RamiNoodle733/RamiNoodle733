@@ -93,6 +93,22 @@ Data platform for comparing 225+ animals across combat stats, ELO rankings, tour
 <tr>
 <td width="50%" valign="top">
 <br>
+<img src="https://cdn.simpleicons.org/socketdotio/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Pulseboard">Pulseboard</a></b>
+<br><sub>Anonymous real-time color pulse synchronization platform. Users pulse colors together via WebSockets with gamification — XP, levels, streaks, achievements, upgrades. Glassmorphism UI with GitHub OAuth.</sub>
+<br><sub><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Fastify</code> <code>Socket.io</code> <code>PostgreSQL</code> <code>Zustand</code></sub>
+<br>
+</td>
+<td width="50%" valign="top">
+<br>
+<img src="https://cdn.simpleicons.org/github/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/gituhb">gitUHb</a></b>
+<br><sub>GitHub project collaboration hub for University of Houston — browse repos, create projects, join teams, upvote, and comment. Integrates GitHub API for READMEs, commits, issues, and contributor stats.</sub>
+<br><sub><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>NextAuth</code></sub>
+<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br>
 <img src="./assets/akhdar-perfumes-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Akhdar-Perfumes">Akhdar Perfumes</a></b> · <a href="https://akhdarperfumes.com">akhdarperfumes.com</a>
 <br><sub>E-commerce storefront for Arabian attars — product catalog, cart, checkout, and admin panel. Custom Horizon theme with view transitions and JS module imports.</sub>
 <br><sub><code>Shopify Liquid</code> <code>CSS</code> <code>JavaScript</code> · Hosted: Shopify</sub>
