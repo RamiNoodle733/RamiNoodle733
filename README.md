@@ -52,18 +52,18 @@ Data platform for comparing 225+ animals across combat stats, ELO rankings, tour
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://trybarakah.com/favicon.ico" width="40" alt="Barakah"/>
+<img src="https://barakah-weld.vercel.app/favicon.ico" width="40" alt="Barakah"/>
 
-**[Barakah](https://github.com/RamiNoodle733/barakah)** · [trybarakah.com](https://trybarakah.com) · In Progress
+**[Barakah](https://github.com/RamiNoodle733/barakah)** · [barakah-weld.vercel.app](https://barakah-weld.vercel.app)
 
-Finance for Muslims platform to track wealth, automate zakat calculations, and connect users with trusted giving partners through a clean, purpose-driven experience.
+Finance app for Muslims that tracks wealth across accounts and investments, calculates zakat automatically with live silver nisab pricing, tracks 354-day hawl progress, and supports one-click giving flows.
 
-`Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Vercel`
+`Next.js 14` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL (Neon)` `Plaid` `Vercel`
 
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://trybarakah.com/opengraph-image.png" width="340" alt="Barakah Preview"/>
+<img src="https://barakah-weld.vercel.app/opengraph-image.png" width="340" alt="Barakah"/>
 
 </td>
 </tr>
