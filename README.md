@@ -49,6 +49,24 @@ Data platform for comparing 225+ animals across combat stats, ELO rankings, tour
 
 </td>
 </tr>
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://img.shields.io/badge/Barakah-DAA85A?style=for-the-badge" width="40" alt="Barakah"/>
+
+**Barakah** · In Progress
+
+Finance for Muslims platform to track wealth, automate zakat calculations, and connect users with trusted giving partners through a clean, purpose-driven experience.
+
+`Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Vercel`
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://placehold.co/800x450/F4EFE3/4A3A26?text=Barakah+Preview" width="340" alt="Barakah Preview"/>
+
+</td>
+</tr>
 </table>
 
 ---
