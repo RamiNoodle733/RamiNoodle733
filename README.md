@@ -63,7 +63,7 @@ Finance for Muslims platform to track wealth, automate zakat calculations, and c
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://placehold.co/800x450/F4EFE3/4A3A26?text=Barakah+Preview" width="340" alt="Barakah Preview"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/534/datas/gallery.jpg" width="340" alt="Barakah Preview"/>
 
 </td>
 </tr>
