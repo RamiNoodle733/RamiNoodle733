@@ -1,286 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Rami%20Abdelrazzaq&fontSize=40&fontColor=E6EDF3&fontAlignY=55" width="100%" alt=""/>
+# Rami Abdelrazzaq
 
-**Computer Science · Cum Laude · University of Houston**
+**Computer Science graduate · CompTIA A+ certified · Open-source contributor**
 
-<a href="https://www.linkedin.com/in/rami-abdelrazzaq-6742541bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=238636" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="mailto:ramiabdelrazzaq@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=238636" alt="Email"/>
-</a>&nbsp;
-<a href="https://github.com/RamiNoodle733">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=238636" alt="GitHub"/>
-</a>
+Building web applications, data tools, and AI workflows — with a focus on useful interfaces, debugging, and reliability.
+
+[Portfolio](https://devpost.com/RamiNoodle733) · [Animal Battle Stats](https://animalbattlestats.com) · [LinkedIn](https://www.linkedin.com/in/rami-abdelrazzaq)
+
+**B.S. Computer Science, Cum Laude — University of Houston, May 2025**
 
 </div>
-
-<br>
-
-<div align="center">
-
-Full-Stack Development · AI Tools & Workflows · Data Systems & Dashboards
-
-</div>
-
-<br>
 
 ---
 
-### Featured
+## Spotlight — Animal Battle Stats
+
+**Creator and developer** · [Live site](https://animalbattlestats.com) · [Source](https://github.com/RamiNoodle733/animal-battle-stats) · [Project story](https://devpost.com/software/animal-battle-stats)
+
+An interactive animal powerscaling database with **344 animals**, searchable rankings, detailed profiles, head-to-head comparisons, tier lists, tournament brackets, and community features. The interface brings wildlife data into the visual language of a fighting game.
+
+My work includes the interface, data presentation, responsive design, comparison features, release tooling, and browser verification. The stack combines JavaScript, HTML/CSS, Astro-generated pages, Node.js tooling, Vercel serverless endpoints, and MongoDB/Mongoose.
+
+[![Animal Battle Stats homepage — current live interface](./assets/screenshots/animal-battle-stats-home-2026-10-08.jpg)](https://animalbattlestats.com)
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-<img src="./assets/animal-battle-stats-logo.png" width="40" alt="ABS"/>
-
-**[Animal Battle Stats](https://github.com/RamiNoodle733/animal-battle-stats)** · [animalbattlestats.com](https://animalbattlestats.com)
-
-Data platform for comparing 225+ animals across combat stats, ELO rankings, tournaments, and community features. JWT auth, Chart.js visualizations, and serverless APIs.
-
-`JavaScript` `Node.js` `Express` `MongoDB Atlas` `Vercel`
-
+<td width="50%">
+<a href="https://animalbattlestats.com/stats"><img src="./assets/screenshots/animal-battle-stats-database-2026-10-08.jpg" alt="Searchable animal database with 344 animals, power rankings and six stat ratings" width="100%"/></a>
+<sub><b>Animal database</b> — searchable rankings and comparison controls.</sub>
 </td>
-<td width="45%" align="center" valign="top">
-
-<img src="./assets/animal-battle-stats-preview.png" width="340" alt="Animal Battle Stats"/>
-
-</td>
-</tr>
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://img.shields.io/badge/Barakah-DAA85A?style=for-the-badge" width="40" alt="Barakah"/>
-
-**Barakah** · In Progress
-
-Finance for Muslims platform to track wealth, automate zakat calculations, and connect users with trusted giving partners through a clean, purpose-driven experience.
-
-`Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL` `Vercel`
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/534/datas/gallery.jpg" width="340" alt="Barakah Preview"/>
-
+<td width="50%">
+<a href="https://animalbattlestats.com/stats/orca"><img src="./assets/screenshots/animal-battle-stats-orca-2026-10-08.jpg" alt="Orca profile with stat bars, radar chart, animal details and comparison controls" width="100%"/></a>
+<sub><b>Animal profiles</b> — visual ratings, measurements, abilities, and sources.</sub>
 </td>
 </tr>
 </table>
 
----
+<sub>Real screenshots captured from the live website on October 8, 2026. The animal count is a dated snapshot. Ratings and simulated matchups are game-style interpretations of animal traits.</sub>
 
-### Projects
+## Open-source contributions
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="./assets/cougar-degree-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/mvmonr0e/cougardegree">Cougar Degree</a></b> · <a href="https://devpost.com/software/cougar-degree">Devpost</a>
-<br><img src="https://img.shields.io/badge/MLH_Winner-21262D?style=flat-square&logo=majorleaguehacking&logoColor=238636" height="18"/>
-<br><sub>AI degree planner generating balanced 8-semester roadmaps with prerequisite enforcement and difficulty-aware scheduling. Dual-LLM pipeline: Gemini 2.5 Flash for parsing, Llama 3 via DigitalOcean Gradient for generation.</sub>
-<br><sub><code>Node.js</code> <code>Express</code> <code>Gemini 2.5 Flash</code> <code>Llama 3</code></sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="./assets/cardio-vision-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/venkats/sdp25_unknown">Cardio Vision</a></b> · <a href="https://youtu.be/EwiMXSH537k">Demo</a>
-<br><img src="https://img.shields.io/badge/Boston_Scientific-21262D?style=flat-square&logoColor=238636" height="18"/>
-<br><sub>ECG analysis web app automating cardiac axis calculations via parallelogram and cosine law methods. Triaxial vector visualizations for clinical interpretation.</sub>
-<br><sub><code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>MySQL</code> <code>Pytest</code></sub>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/ibm/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/ibm-ai-demo-studio">IBM AI Demo Studio</a></b> · <a href="https://ibm-ai-demo-studio.vercel.app/">Live</a> · <a href="https://youtu.be/0TXq9Tz8eno">Video</a>
-<br><sub>LLM workflow demos — document Q&A with citations, text classification, and CSV summarization. IBM Carbon Design System UI, Prisma ORM, and GPT-4o integration.</sub>
-<br><sub><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Prisma</code> <code>SQLite</code> <code>GPT-4o</code> · Deploy: Vercel</sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/powerbi/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/akhdar-bi-command-center">Akhdar BI Command Center</a></b>
-<br><sub>Power BI executive dashboard tracking net sales, AOV, discounts, and customer segments. Star-schema ETL pipeline with DAX measures for pricing and margin analysis.</sub>
-<br><sub><code>Python</code> <code>pandas</code> <code>SQLAlchemy</code> <code>PostgreSQL 15</code> <code>Docker</code> <code>Power BI</code></sub>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/socketdotio/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Pulseboard">Pulseboard</a></b>
-<br><sub>Anonymous real-time color pulse synchronization platform. Users pulse colors together via WebSockets with gamification — XP, levels, streaks, achievements, upgrades. Glassmorphism UI with GitHub OAuth.</sub>
-<br><sub><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Fastify</code> <code>Socket.io</code> <code>PostgreSQL</code> <code>Zustand</code></sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/github/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/gituhb">gitUHb</a></b>
-<br><sub>GitHub project collaboration hub for University of Houston — browse repos, create projects, join teams, upvote, and comment. Integrates GitHub API for READMEs, commits, issues, and contributor stats.</sub>
-<br><sub><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>NextAuth</code></sub>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="./assets/akhdar-perfumes-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Akhdar-Perfumes">Akhdar Perfumes</a></b> · <a href="https://akhdarperfumes.com">akhdarperfumes.com</a>
-<br><sub>E-commerce storefront for Arabian attars — product catalog, cart, checkout, and admin panel. Custom Horizon theme with view transitions and JS module imports.</sub>
-<br><sub><code>Shopify Liquid</code> <code>CSS</code> <code>JavaScript</code> · Hosted: Shopify</sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/reddit/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/ABS-PostBot">ABS-PostBot</a></b>
-<br><sub>Social media automation for Animal Battle Stats — generates and posts spotlights, matchups, power rankings, and fun facts to Reddit (Snoowrap), Discord (webhooks), and X (OAuth 1.0a).</sub>
-<br><sub><code>Node.js</code> <code>Snoowrap</code> <code>Puppeteer</code> <code>node-canvas</code> · CI: GitHub Actions</sub>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="./assets/islamic-glossary-logo.png" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Islamic-Glossary-Reminders">Islamic Glossary Reminders</a></b> · <a href="https://islamic-glossary-reminders.onrender.com">Live</a>
-<br><sub>Gamified Islamic glossary learning — timed check-ins (morning/afternoon/night), streaks, knowledge points with multipliers, achievements, and a community leaderboard.</sub>
-<br><sub><code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>JWT</code> <code>bcrypt</code> · Deploy: Render</sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/expo/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Node24">Node24</a></b>
-<br><sub>24-hour planner where "nodes" must sum to exactly 24 hours. Drag-resize via gesture handler and reanimated, haptic feedback, repeating nodes, color themes, and an AI assistant bar.</sub>
-<br><sub><code>React Native</code> <code>Expo SDK 54</code> <code>TypeScript</code> <code>Zustand</code> <code>AsyncStorage</code></sub>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/probot/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/job-autopilot">Job-Autopilot</a></b>
-<br><sub>Automated job discovery across LinkedIn, Indeed, and company career pages. Tailors resumes per position via LaTeX, auto-fills ATS forms with Puppeteer, deduplicates postings, and sends Telegram alerts.</sub>
-<br><sub><code>Node.js</code> <code>Puppeteer</code> <code>Cheerio</code> <code>SQLite</code> <code>Commander</code> <code>LaTeX</code></sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/yelp/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Halal-Hot-Chicken-Ranker">Halal-Hot-Chicken-Ranker</a></b> · <a href="https://halal-hot-chicken-ranker.vercel.app">Live</a>
-<br><sub>Community ranking app for halal hot chicken restaurants. Upvote/downvote voting, comments, restaurant submissions via Nodemailer, search and sort. Helmet + compression middleware.</sub>
-<br><sub><code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Vanilla JS</code> · Deploy: Vercel</sub>
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/googlecloud/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/Perfume-Pal">Perfume-Pal</a></b>
-<br><img src="https://img.shields.io/badge/Google_Cloud_Hackathon-21262D?style=flat-square&logo=googlecloud&logoColor=238636" height="18"/>
-<br><sub>AI perfume designer using Google ADK multi-agent architecture — scent planner and formula architect agents translate preferences into custom fragrance formulas.</sub>
-<br><sub><code>Python</code> <code>FastAPI</code> <code>Google ADK</code> <code>Gemini 1.5 Flash</code> · Deploy: Cloud Run (Docker)</sub>
-<br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://cdn.simpleicons.org/python/238636" width="24" height="24" alt=""/> &nbsp;<b><a href="https://github.com/RamiNoodle733/stock-prediction-model">Stock Prediction Model</a></b>
-<br><sub>ML pipeline predicting AAPL/MSFT/AMD stock prices using 52 engineered features and 20-day sliding windows. Compares linear regression, LSTM, and ARIMA models. ACM-formatted LaTeX report.</sub>
-<br><sub><code>Python</code> <code>PyTorch</code> <code>scikit-learn</code> <code>pandas</code> <code>yfinance</code> <code>statsmodels</code></sub>
-<br>
-</td>
-</tr>
-</table>
+**16 merged pull requests across 10 upstream repositories**, verified October 7, 2026. I contribute focused fixes, features, regression coverage, and documentation to existing projects.
 
----
+| Project | Accepted contribution | Upstream evidence |
+| --- | --- | --- |
+| **OpenClaw** | Preserve case-distinct peer IDs during session cleanup; improve failed-update recovery; clarify context-overflow recovery | [#122006](https://github.com/openclaw/openclaw/pull/122006) · [#18131](https://github.com/openclaw/openclaw/pull/18131) · [#12973](https://github.com/openclaw/openclaw/pull/12973) |
+| **sqlite-utils** | Empty/whitespace-only input handling, header-only CSV imports, and test-mode plugin isolation | [#837](https://github.com/simonw/sqlite-utils/pull/837) · [#707](https://github.com/simonw/sqlite-utils/pull/707) · [#719](https://github.com/simonw/sqlite-utils/pull/719) |
+| **Datasette** | Numeric filter parameter coercion | [#2876](https://github.com/simonw/datasette/pull/2876) |
+| **Altair** | Readable Unicode JSON export with an explicit ensure_ascii option, tests, and documentation | [#3952](https://github.com/vega/altair/pull/3952) |
+| **Meltano** | Drop unset .env values and correct documentation | [#9825](https://github.com/meltano/meltano/pull/9825) · [#9833](https://github.com/meltano/meltano/pull/9833) · [#9827](https://github.com/meltano/meltano/pull/9827) |
+| **pandas** | Remove an unused shared aggregate documentation template | [#64052](https://github.com/pandas-dev/pandas/pull/64052) |
+| **JupyterLab** | Naming consistency in documentation | [#18450](https://github.com/jupyterlab/jupyterlab/pull/18450) |
+| **Jupyter Notebook** | Repair troubleshooting and migration documentation links | [#7824](https://github.com/jupyter/notebook/pull/7824) |
+| **pyFoF** | Astronomical input validation, integration, and tests | [#80](https://github.com/TrystanScottLambert/pyFoF/pull/80) |
+| **Kana Dojo** | Educational content contribution | [#3236](https://github.com/lingdojo/kana-dojo/pull/3236) |
 
-### Open Source Contributions
+[Read the contribution case studies →](https://devpost.com/software/sqlite-utils)
 
-**pandas** · [v3.0.2 release](https://github.com/pandas-dev/pandas/releases/tag/v3.0.2) — Fixed inconsistent `str` array construction. `pd.array` and `pd.Series` now both preserve NA values consistently. Listed as contributor in release notes.
+<sub>Upstream maintainers and collaborators retain credit for their projects. This index separates engineering changes from smaller documentation/content contributions. My development workflow includes AI assistance; the linked review and merge records show what was accepted.</sub>
 
-**OpenClaw** · [PR #18131](https://github.com/openclaw/openclaw/pull/18131) — Fixed gateway self-update crash loop: restart only on successful updates, early exit on failed install/build steps, and auto-runs `openclaw doctor --fix` during updates to sanitize config. Credited in the [v2026.2.17 changelog](https://github.com/openclaw/openclaw/releases/tag/v2026.2.17).
+## Selected projects
 
-**OpenClaw** · [PR #12973](https://github.com/openclaw/openclaw/pull/12973) — Improved context-overflow recovery UX by suggesting `/reset` when the model hits token limits.
+### Cardio Vision
 
-<sub>Also explored: [sqlparse](https://github.com/RamiNoodle733/sqlparse) · [datasette](https://github.com/RamiNoodle733/datasette) · [sqlite-utils](https://github.com/RamiNoodle733/sqlite-utils) · [sqlfluff](https://github.com/RamiNoodle733/sqlfluff) · [altair](https://github.com/RamiNoodle733/altair)</sub>
+**Boston Scientific-sponsored University of Houston capstone · Six-person team · January–May 2025**
 
----
+A Flask/MySQL application connecting ECG data uploads, database workflows, waveform plots, and electrical-axis visualization. I contributed to database operations, bulk uploads and schema handling, graphing, responsive UI, troubleshooting, automated tests, and final sponsor communication.
 
-### Tech Stack
+**Stack:** Python · Flask · SQLAlchemy · MySQL · JavaScript · Matplotlib · Plotly · pytest · Vitest
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=238636)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=238636)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=238636)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=238636)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=238636)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=238636)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=238636)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=238636)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=238636)
+[Project and screenshots](https://devpost.com/software/cardio-vision-15zp0l) · [Recorded presentation](https://www.youtube.com/watch?v=EwiMXSH537k)
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=238636)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=238636)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=238636)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=238636)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=238636)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=238636)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=238636)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=238636)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=238636)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=238636)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=238636)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=238636)
+<sub>Completed collaborative academic prototype.</sub>
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=238636)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=238636)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=238636)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=238636)
-![Render](https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=238636)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=238636)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=238636)
+### Cougar Degree
 
----
+**CodeRED Astra winner — [MLH] Best Use of DigitalOcean Gradient AI**
 
-### Statistics
+AI-assisted degree-planning prototype built with Mahmoud Badi and Michael Monroe. The winning version integrates DigitalOcean Gradient AI; the original Gemini-based implementation is a separate version. I was a member of the three-person hackathon team, with implementation credit shared across the team.
 
-<div align="center">
+**Stack:** JavaScript · HTML/CSS · Node.js · Express · DigitalOcean Gradient AI
 
-<a href="https://github.com/RamiNoodle733">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamiNoodle733&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=238636&text_color=E6EDF3&icon_color=238636&ring_color=238636" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/RamiNoodle733">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamiNoodle733&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=238636&text_color=E6EDF3" alt="Top Languages"/>
-</a>
+[Winning-version source](https://github.com/mvmonr0e/cougardegree/tree/hackathon-winning-version) · [Project and award](https://devpost.com/software/cougar-degree)
 
-<br><br>
+### Perfume Pal
 
-<a href="https://github.com/RamiNoodle733">
-  <img width="55%" src="https://github-readme-streak-stats-nine-phi.vercel.app?user=RamiNoodle733&hide_border=true&background=0D1117&stroke=21262D&ring=238636&fire=238636&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=238636&sideLabels=238636&dates=7D8590" alt="GitHub Streak"/>
-</a>
+**Cloud Run Hackathon prototype**
 
-<br><br>
+A fragrance-design workflow that turns scent preferences into structured recipe concepts. I created the concept, interface, agent prompts, and backend integration, drawing on my perfume-brand experience. A Scent Planner and Formula Architect divide preference interpretation from recipe generation.
 
-<a href="https://github.com/RamiNoodle733">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RamiNoodle733&bg_color=0D1117&color=238636&line=238636&point=E6EDF3&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-</a>
+**Stack:** Python · FastAPI · Google ADK · Gemini · Docker · Google Cloud Run
 
-</div>
+[Source and setup](https://github.com/RamiNoodle733/Perfume-Pal) · [Recorded demo](https://www.youtube.com/watch?v=oRqwuaTzXdw) · [Project story](https://devpost.com/software/perfume-pal)
 
----
+<sub>The hosted demo needs repair; the video and source document the prototype.</sub>
 
-### Background
+## Tools I work with
 
-**BS Computer Science, Cum Laude** — University of Houston (May 2025)
+- **Languages:** Python · JavaScript · TypeScript · SQL · HTML/CSS
+- **Web and data:** Node.js · Express · React · Next.js · Flask · FastAPI · MongoDB · PostgreSQL · MySQL
+- **Delivery and verification:** Git · GitHub · Docker · Linux · Vercel · Google Cloud Run · pytest · Vitest · Playwright
+- **IT support training:** Windows · Ubuntu · PC hardware · Networking · Active Directory labs · Microsoft 365 · ServiceNow
 
-Dean's List — Spring 2024, Fall 2024, Spring 2025
+## Background
 
-**AI Evaluation Specialist** — Outlier AI (Nov 2024 – Present)
-<br><sub>Evaluate and improve AI-generated code for correctness and clarity across Python and JavaScript tasks.</sub>
+- **CompTIA A+ ce** — earned June 2026.
+- **Per Scholas IT Support Training** — completed June 2026; systems, hardware, networking, support workflows, and labs.
+- **B.S. Computer Science, Cum Laude** — University of Houston, May 2025. Dean's List: Spring 2024, Fall 2024, Spring 2025.
+- **AI Evaluation Specialist, Outlier AI** — November 2024–March 2026. Reviewed technical AI outputs and documented defects and corrections across Python and JavaScript tasks.
+- **Coding Instructor, Coder Kids** — August 2024–January 2025. Taught Scratch/Python fundamentals and helped students debug setup and programming issues.
 
-**Coding Instructor** — Coder Kids (Aug 2024 – Jan 2025)
-<br><sub>Taught Scratch and Python fundamentals to students across multiple age groups.</sub>
+## GitHub activity
 
-<br>
+[![Rami Abdelrazzaq's GitHub activity over the last 30 days](./assets/activity-graph.svg)](https://github.com/RamiNoodle733?tab=overview)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=footer" width="100%" alt=""/>
-</div>
+<sub>Generated daily from GitHub's contribution calendar and stored in this repository. The image shows its date range; GitHub's live contribution graph below remains the current account view.</sub>
+
+[Refresh workflow](https://github.com/RamiNoodle733/RamiNoodle733/actions/workflows/profile-activity.yml) · [How the graph is generated](./scripts/update_activity_graph.py)
